@@ -1,0 +1,10 @@
+{
+  "book": ["book"],
+  "food": [
+    "chocolate_bar",
+    "box_of_chocolates"
+  ],
+  "medical": ["packet_of_headache_pills"],
+  "music": ["music_cd"],
+  "personal_care": ["bottle_of_perfume"]
+}
